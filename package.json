@@ -1,19 +1,15 @@
 {
-  "name": "bootstrap-test",
+  "name": "bootstrap-scss",
   "version": "1.0.0",
-  "description": "testing bootstrap and scss",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "boostrap",
-    "scss",
-    "sass"
-  ],
-  "author": "ctrachte",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "bootstrap": "file:bootstrap"
+    "bootstrap": "^5.1.1"
   }
 }
