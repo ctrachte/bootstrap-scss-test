@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-test",
+  "version": "1.0.0",
+  "description": "testing bootstrap and scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "boostrap",
+    "scss",
+    "sass"
+  ],
+  "author": "ctrachte",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "file:bootstrap"
+  }
+}
